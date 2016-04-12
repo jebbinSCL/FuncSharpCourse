@@ -1,0 +1,1 @@
+"There is an interesting phenomenon happening at Xamarin. Whenever one of our engineers starts working with F#, they tend to embrace it and stay there." - Miguel de Icaza, best known for starting the GNOME,Mono and Xamarin projects
