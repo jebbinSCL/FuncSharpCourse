@@ -23,3 +23,6 @@ Things that could be covered
 - Pure functions
 - immutable data
 - Pure functions, Immutable data and implementing Time Travel
+- Hot swapping?
+  - http://elm-lang.org/blog/interactive-programming is it possible in F#?
+  - https://github.com/gaearon/redux-devtools

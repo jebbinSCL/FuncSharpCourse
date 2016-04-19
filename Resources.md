@@ -5,12 +5,15 @@ http://fsharpforfunandprofit.com/
 https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/
 http://homepages.inf.ed.ac.uk/wadler/
 https://www.inf.ed.ac.uk/people/staff/Philip_Wadler.html
+http://tomasp.net/
 
-## Articles / Papers
+## Articles / Papers / Useful pages
+http://stackoverflow.com/tags/f%23/info
 http://www.eliza.ch/doc/wadler92essence_of_FP.pdf
 http://fsharpforfunandprofit.com/posts/happy-fsharp-day-2/ : Kind of a 'state of F#' blog mentioning a number of projects, events etc
 
 ## Libraries and tools
+http://fsharppowerpack.codeplex.com/
 
 ## Videos
 https://www.youtube.com/watch?v=ZhuHCtR3xq8: Brian Beckman: Don't fear the Monad
