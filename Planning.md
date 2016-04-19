@@ -19,13 +19,17 @@ How should things be ordered? Should I cycle between sections or do all of each 
 
 # Topics
 
-- Introduction {Feature Talk}
+- Topic 1 : Introduction (Feature Talk)
   - Talk : Can't Stop the Func
-  - Exercise : ??
+  - Exercise : Environment setup and playground
   - Notes :
-    - Functional languages becoming more popular + people bring functional capabilities to non functonal languages
+    - Functional languages becoming more popular + people bring functional capabilities to non functional languages
     - Review last few minutes of https://www.youtube.com/watch?v=xsSnOQynTHs for quotes?
     - Relavant quotes : 1.
-- Immutability + Pure functions {Feature Talk}
+- Topic ? : Interfacing with the external world
+- Topic ? : C# / general .net Interop
+- Topic ? : Immutability + Pure functions (Feature Talk)
   - Talk : Implementing time travel
-- Monads / Computational Expressions {Feature Talk}
+  - Exercise : Applying time travel as a feature.
+- Topic ? : Monads / Computational Expressions (Feature Talk)
+  - Talk : ?? (Title undecided)

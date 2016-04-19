@@ -8,6 +8,7 @@ https://www.inf.ed.ac.uk/people/staff/Philip_Wadler.html
 
 ## Articles / Papers
 http://www.eliza.ch/doc/wadler92essence_of_FP.pdf
+http://fsharpforfunandprofit.com/posts/happy-fsharp-day-2/ : Kind of a 'state of F#' blog mentioning a number of projects, events etc
 
 ## Libraries and tools
 
