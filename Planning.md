@@ -31,6 +31,7 @@ How should things be ordered? Should I cycle between sections or do all of each 
 - Topic ? : Something based around : http://www.eliza.ch/doc/wadler92essence_of_FP.pdf?
 - Topic ? : Interfacing with the external world
 - Topic ? : C# / general .net Interop
+- Topic ? : Jumping into F#. Quick ways to start using it.
 - Topic ? : Immutability + Pure functions (Feature Talk)
   - Talk : Implementing time travel
   - Exercise : Applying time travel as a feature.
@@ -61,10 +62,11 @@ How should things be ordered? Should I cycle between sections or do all of each 
   - Talk: ??
   - Notes:
     - Things to cover:
-      - Testing code performance
+      - Profiling code performance
       - How to perform optimization
       - Pitfalls
   - Reference Links
     - http://stackoverflow.com/questions/1306140/why-is-using-a-sequence-so-much-slower-than-using-a-list-in-this-example : Why is using a sequence so much slower than using a list in this example
     - http://stackoverflow.com/questions/898988/avoiding-stack-overflow-with-f-infinite-sequences-of-sequences : Avoiding stack overflow (with F# infinite sequences of sequences)
     - http://stackoverflow.com/questions/36459890/f-removing-duplicates-from-a-seq-is-slow/36461675#36461675 : removing duplicates from a seq is slow
+    - http://stackoverflow.com/questions/9252660/how-to-optimize-f-programs-generally/9253030#9253030
