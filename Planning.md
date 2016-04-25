@@ -21,9 +21,16 @@ How should things be ordered? Should I cycle between sections or do all of each 
 
 # Topics
 
-- Topic 1 : Introduction (Feature Talk)
-  - Talk : Can't Stop the Func
+- Topic 1 : Course Introduction + 0 to 60 (Crash course / brief demo of everything that we'll show)
+  - Talk :
+    - Course Introduction
+    - F# Introduction
+    - Functional Introduction
+    - Course outline and projection
   - Exercise : Environment setup and playground
+- Topic 2 : Can't Stop the Func (Feature Talk)
+  - Talk : Can't Stop the Func
+
   - Notes :
     - Functional languages becoming more popular + people bring functional capabilities to non functional languages
     - Review last few minutes of https://www.youtube.com/watch?v=xsSnOQynTHs for quotes?
