@@ -21,6 +21,9 @@ https://www.quora.com/Why-do-some-functional-programmers-criticize-design-patter
 https://web.archive.org/web/20130819160454/http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/
 https://www.reddit.com/r/programming/comments/47ssw4/why_hasnt_functional_programming_taken_over_yet/ and https://web.archive.org/web/20150519053755/http://stackoverflow.com/questions/2835801/why-hasnt-functional-programming-taken-over-yet/2835936
 https://www.reddit.com/r/programming/comments/2hjzjy/john_carmack_email_on_inlined_code_and_functional/
+https://www.quora.com/What-are-some-programming-paradigms-other-than-object-oriented/answer/Jonathan-Reem
+https://www.quora.com/What-are-some-programming-paradigms-other-than-object-oriented/answer/Jonathan-Reem
+https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29
 
 ### F# Async performance
 http://stackoverflow.com/questions/35762747/performance-of-async-in-f-vs-c-sharp-is-there-a-better-way-to-write-async/35766979#35766979
@@ -43,6 +46,7 @@ https://www.youtube.com/watch?v=DlBwJ4rvz5c: "Everything Old is New Again: Quote
 https://www.youtube.com/watch?v=E8I19uA-wGY: Functional programming design patterns by Scott Wlaschin
 https://www.youtube.com/watch?v=IOiZatlZtGU: "Propositions as Types" by Philip Wadler
 https://www.youtube.com/watch?v=H28QqxO7Ihc: Move Over Free Monads: Make Way for Free Applicatives! — John de Goes
+http://www.infoq.com/presentations/F-sharp-patterns
 
 ## Repositories / Raw code
 https://github.com/fsharp/fsharp: The Open Edition of the F# compiler, core library and tools
