@@ -27,6 +27,8 @@ https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29
 http://www.simontylercousins.net/does-the-language-you-use-make-a-difference-revisited/
 http://www.lispcast.com/global-mutable-state
 
+http://stackoverflow.com/questions/2867514/how-can-i-implement-a-tail-recursive-list-append/2867646#2867646
+
 ### F# Async performance
 http://stackoverflow.com/questions/35762747/performance-of-async-in-f-vs-c-sharp-is-there-a-better-way-to-write-async/35766979#35766979
 https://github.com/Hopac/Hopac
