@@ -26,6 +26,7 @@ https://www.quora.com/What-are-some-programming-paradigms-other-than-object-orie
 https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29
 http://www.simontylercousins.net/does-the-language-you-use-make-a-difference-revisited/
 http://www.lispcast.com/global-mutable-state
+http://stackoverflow.com/questions/7698133/method-chaining-vs-pipe-operator?lq=1 : Method Chaining vs |> Pipe Operator
 
 http://stackoverflow.com/questions/2867514/how-can-i-implement-a-tail-recursive-list-append/2867646#2867646
 
