@@ -25,6 +25,7 @@ https://www.quora.com/What-are-some-programming-paradigms-other-than-object-orie
 https://www.quora.com/What-are-some-programming-paradigms-other-than-object-oriented/answer/Jonathan-Reem
 https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29
 http://www.simontylercousins.net/does-the-language-you-use-make-a-difference-revisited/
+http://www.lispcast.com/global-mutable-state
 
 ### F# Async performance
 http://stackoverflow.com/questions/35762747/performance-of-async-in-f-vs-c-sharp-is-there-a-better-way-to-write-async/35766979#35766979
