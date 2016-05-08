@@ -1,4 +1,10 @@
 # Planning
+
+## Todo
+- Better course title
+
+## General notes
+
 Multiple sessions per topic. Don't try and squeeze things unless we don't want to cover them
 
 E.g. 2 sessions
@@ -9,7 +15,7 @@ In the first s1 session of the course, give a basic exercise that takes less tha
 
 How comprehensive can this be?
 
-# High level Areas
+## High level Areas
 - F# Features and syntax
   - E.g. operators, type providers
 - Functional Programming (General concepts)
@@ -19,8 +25,7 @@ How comprehensive can this be?
 
 How should things be ordered? Should I cycle between sections or do all of each section at once? Mixing things up is probably best way.
 
-# Topics
-
+## Definite topics
 - Topic 1 : Course Introduction + 0 to 60 (Crash course / brief demo of everything that we'll show)
   - Talk :
     - Course Introduction
@@ -28,7 +33,10 @@ How should things be ordered? Should I cycle between sections or do all of each 
     - Functional Introduction
     - Course outline and projection
   - Exercise : Environment setup and playground
-- Topic 2 : Can't Stop the Func (Feature Talk)
+
+## Topics Ideas
+
+- Topic ? : Can't Stop the Func (Feature Talk)
   - Talk : Can't Stop the Func
 
   - Notes :
