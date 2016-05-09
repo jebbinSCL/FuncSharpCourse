@@ -1,4 +1,6 @@
-# Things that could be covered
+# Ideas
+
+## Things that could be covered
 
 - WPF application
 - Dapper / Nhibernate / Entity Framework
@@ -9,8 +11,10 @@
 - Creating your own type provider?
 - MBrace
 - Akka.NET
-- Reactive / Lazy
-  - (Promises/Async) / (Ienumerable/Seq) / Events / Observables
+- Reactive Programming
+- Functional Reactive Programming 
+- Lazy
+- (Promises/Async) / (Ienumerable/Seq) / Events / Observables
 - Libraries with other collections
   - Async seq? Fsharp.data
 - Monads / Computational Expressions
@@ -57,6 +61,23 @@
         TODO Find better quote about pure functions, immutable data, and trivially parallelizable code https://news.ycombinator.com/item?id=11396173
 
       Reality: The full statement should be the following: (Improve statement to make sure there are no flaws) Pure functions with independent inputs are trivially parallelizable.
-      
+
     - Another misconception: F# code will remove the need for nulls.
       Reality: F# is dependent on .NET and has been built with the benefit of interfacing with other .net languages and libraries. Because of this, you may need to deal with nulls whenever you deal with non F# code, but there are a number of tools to help make it easier. And the convention is to isolate the interfacing code as much as possible, so null checks are only in certain areas of your code.
+
+## Project Ideas
+- Asteroids
+- Custom Computational Expression (Monad)
+- Web server?
+- Parser?
+- Xamirian app?
+- WPF app?
+- Code analysis for bristech srm?
+- Code analysis for single larger project?
+- Using FAKE for something?
+- Generating data with FsCheck
+- Diagrams/ Visualization
+- Data Science / Machine learning
+- MBrace
+- Akka.net
+- Units of measure
