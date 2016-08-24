@@ -29,6 +29,12 @@ http://www.lispcast.com/global-mutable-state
 http://stackoverflow.com/questions/7698133/method-chaining-vs-pipe-operator?lq=1 : Method Chaining vs |> Pipe Operator
 
 http://stackoverflow.com/questions/2867514/how-can-i-implement-a-tail-recursive-list-append/2867646#2867646
+https://www.reddit.com/r/functional/comments/3nkq9v/has_anyone_ever_successfully_done_fp_for_a_while/
+https://fsharpforfunandprofit.com/posts/cyclic-dependencies/
+https://www.quora.com/How-is-Martin-Oderskys-Functional-Programming-Principles-in-Scala-Coursera-course
+https://www.coursera.org/learn/progfun1
+https://www.amazon.co.uk/Functional-Programming-Using-Michael-Hansen/dp/1107684064?ie=UTF8&p=S006&reader=1&ref_=sib_dp_bod_toc#reader-link
+https://www.reddit.com/r/programming/comments/4xl02l/climbing_the_infinite_ladder_of_abstraction/
 
 ### F# Async performance
 http://stackoverflow.com/questions/35762747/performance-of-async-in-f-vs-c-sharp-is-there-a-better-way-to-write-async/35766979#35766979

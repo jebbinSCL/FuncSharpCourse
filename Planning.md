@@ -16,23 +16,45 @@ In the first s1 session of the course, give a basic exercise that takes less tha
 How comprehensive can this be?
 
 ## High level Areas
-- F# Features and syntax
-  - E.g. operators, type providers
 - Functional Programming (General concepts)
-  - E.g. Pure functions, immutable data, etc    
+  - E.g. Pure functions, immutable data, etc
+- F# Features and syntax
+  - E.g. operators, type providers   
 - Pragmatic / Practical concepts
   -  E.g. Database access, web servers, WPF application, game
 
-How should things be ordered? Should I cycle between sections or do all of each section at once? Mixing things up is probably best way.
+How to order areas?
+I think it would be best to focus on Functional programming and thinking functionally before getting into the hybrid features.
+Focus on Func and Functional F# Features
+Then General F# features and
+Practical concepts
 
 ## Definite topics
-- Topic 1 : Course Introduction + 0 to 60 (Crash course / brief demo of everything that we'll show)
-  - Talk :
-    - Course Introduction
-    - F# Introduction
-    - Functional Introduction
-    - Course outline and projection
+- Topic 1 : Course Introduction + Can't Stop the Func
+  - Talk:
+    - Part 1
+      - Course Introduction - Crash course in Functional Programming and F#
+      - F# Introduction
+      - Course Approach
+        - Functional focus first, then Rest of easy hybrid F# features then advanced features and Practical concepts 
+      - Course outline and projection
+        - Functional Programming
+        - F# features
+        - Hybrid features after FUnc stuff is done
+        - Practical applications
+    - Part 2 : Can't Stop the Func
+      - Functional Programming Introduction
+      - Why is it hard to learn
+      - Why learn functional programming
+        - Linguistic Relativity (See Edinburgh Inf 1 Lec 1)
+      - Why is it cropping up more
+      - Features that you are already using that came from functional languages
+      - Features that you are already using that are functional
+      - Benefits
+      - Differences from OOP, Imperative
+      - Current disadvantages
   - Exercise : Environment setup and playground
+
 
 ## Topics Ideas
 
