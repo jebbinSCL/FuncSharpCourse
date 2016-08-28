@@ -30,41 +30,57 @@ Then General F# features and
 Practical concepts
 
 ## Definite topics
-- Topic 1 : Course Introduction + Can't Stop the Func
-  - Talk:
-    - Part 1
-      - Course Introduction - Crash course in Functional Programming and F#
+- Topic 1 : Start the Func : Course / Functional Programming / F# Introduction
+  - My Notes:
+    - Functional languages becoming more popular + people bring functional capabilities to non functional languages
+    - Review last few minutes of https://www.youtube.com/watch?v=xsSnOQynTHs for quotes?
+    - Relavant quotes : 1.
+  - Talk Outline:
+    - Introduction
+      - My Introduction
+      - Functional Programming Introduction
+        - What is it
+        - Why is it hard to learn
+        - Why learn functional programming / Why the course
+          - Linguistic Relativity (See Edinburgh Inf 1 Lec 1)
+        - Why is it cropping up more
+        - Features that you are already using that came from functional languages
+        - Features that you are already using that are functional
+        - Benefits
+        - Differences from OOP, Imperative
+        - Current disadvantages
       - F# Introduction
-      - Course Approach
-        - Functional focus first, then Rest of easy hybrid F# features then advanced features and Practical concepts 
-      - Course outline and projection
+        - Creation
+        - Examples
+        - Interesting projects?
+    - Course Details
+      - Topic Order
         - Functional Programming
         - F# features
         - Hybrid features after FUnc stuff is done
         - Practical applications
-    - Part 2 : Can't Stop the Func
-      - Functional Programming Introduction
-      - Why is it hard to learn
-      - Why learn functional programming
-        - Linguistic Relativity (See Edinburgh Inf 1 Lec 1)
-      - Why is it cropping up more
-      - Features that you are already using that came from functional languages
-      - Features that you are already using that are functional
-      - Benefits
-      - Differences from OOP, Imperative
-      - Current disadvantages
-  - Exercise : Environment setup and playground
+      - Current Course outline
+      - How the course will work
+        - Talks / Notes / Exercises / Readings
+      - How to treat this course
+        - Talks only - light Introduction
+        - Add on Notes / Readings for more depth
+        - Add on exercises to start really learning functional progrmaming and F#
+      - Course Approach
+        - Functional focus first, then Rest of easy hybrid F# features then advanced features and Practical concepts
+      - Communication
+      - Resources
+    - Actual Func and F# Talk? Second half
+    - Coursework
+      - Exercise 0 : Environment setup and playground
+      - Reading ?
+    - Next Session
+    - Questions
+
 
 
 ## Topics Ideas
 
-- Topic ? : Can't Stop the Func (Feature Talk)
-  - Talk : Can't Stop the Func
-
-  - Notes :
-    - Functional languages becoming more popular + people bring functional capabilities to non functional languages
-    - Review last few minutes of https://www.youtube.com/watch?v=xsSnOQynTHs for quotes?
-    - Relavant quotes : 1.
 - Topic ? : Something based around : http://www.eliza.ch/doc/wadler92essence_of_FP.pdf?
 - Topic ? : Interfacing with the external world
 - Topic ? : C# / general .net Interop

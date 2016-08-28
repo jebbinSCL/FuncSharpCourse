@@ -8,6 +8,7 @@ https://www.inf.ed.ac.uk/people/staff/Philip_Wadler.html
 http://tomasp.net/
 
 ## Articles / Papers / Useful pages
+http://codereview.stackexchange.com/questions/139578/return-total-balance-from-unsorted-purchase-items-that-may-have-specials/139652?stw=2#139652
 http://stackoverflow.com/tags/f%23/info
 http://www.eliza.ch/doc/wadler92essence_of_FP.pdf
 http://fsharpforfunandprofit.com/posts/happy-fsharp-day-2/ : Kind of a 'state of F#' blog mentioning a number of projects, events etc
